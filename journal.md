@@ -8,5 +8,5 @@ when setting up my journel i did encournter some problemsbut with some help i ma
 i did Mario's Secret Adventure: Build Your Own 3D Mario Game for hour of code 
 # September 24, 2024
 to get the jems you have to command the person to move towards it if its up tome you move up if its to the right and down make it move to the right then down  and you must payattantion to how you do it beacues one wrong move can get the person killed and you have to start over
-# September 24, 2024 
+# September 27, 2024 
 when playing the game youn have to make sure you dont make the wrong move because if you do then you will lose and have to staret over and you will have to rethink your whole plane
