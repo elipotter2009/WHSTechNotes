@@ -16,3 +16,5 @@ in my daily routine i get on my computer during class and do the assiment that t
 my daily routine include me going onto my computer  and playing some games and sometimes i have to decide on what to do i may have to makle a character say something or move a specific task and i have to make sure i dont make any mistake beacues if i do i will have to restart the leveal or fix my wrong doing and make it better by fixing my mistake 
 # October 15, 2024
 Coding can improve problem solving by helping you understande the problems that you may face in life when you have to make a dissison at your job you have to make sure everything is in the right place before submitting  you have do run a few test in order to have the perfect results
+# October 21, 2024 
+AI can help with problem solving like asking a question or doing a math problem or creating a character like making them say something while at the same thime moving around but it can also beharmfull it could take away your job alot of people lose there job do to AI
