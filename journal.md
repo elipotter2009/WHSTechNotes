@@ -20,3 +20,5 @@ Coding can improve problem solving by helping you understande the problems that 
 AI can help with problem solving like asking a question or doing a math problem or creating a character like making them say something while at the same thime moving around but it can also beharmfull it could take away your job alot of people lose there job do to AI
 # October 28, 2024 
 technology plays a important roule in the election because you have to use technology to make your vote and technology can help gets votes from all diffrent time zones so it helps so you can get all votes at the same time
+# November 4, 
+2024 when posting stuff online you have to make sure nothing importnat gets leaked like you ip adress you a project your working on one way you can dubble chek anything you might have missed befor publishing anything  make sure that if you want it to be public or private if you want it to be privet you have to make sure you have dubble check anything befor putting it on line
