@@ -24,3 +24,5 @@ technology plays a important roule in the election because you have to use techn
 when posting stuff online you have to make sure nothing importnat gets leaked like you ip adress or a project your working on one way you canstop something forme getting out is to dubble chek anything you might have missed befor publishing anything and make sure that if you want it to be public or private if you want it to be privet you have to make sure you have dubble check anything befor putting it on line
 # November 12, 2024
 one current event that is happaning is the the advancing of technology so many new game ai a while ago elon musk introduce a ain robot humennoid ti have a huminod robot you need to make sure it has a x y and z axis and it can move and turn and of course is has to be able to  move for sertant period of time technology has come a long way sencies the 90's frome that big old computure
+# November 18, 2024 
+next  holiday  is thanksgiving
