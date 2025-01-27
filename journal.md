@@ -43,7 +43,7 @@ you have to make sure that you can help the community in any way so that way you
 |jimmy|sierra|fix wrong problem |
 |-----|------|------------------|
 |kayla|honda |oil cap stains    |
-|     |      |------------------|
+|     |      |                  |
 |bart |toyota|fix wrong problem |
 |-----|------|------------------|
 |harri|forester|hoel in gas tank|
