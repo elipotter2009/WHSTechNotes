@@ -45,6 +45,6 @@ you have to make sure that you can help the community in any way so that way you
 |kayla|honda |oil cap stains    |
 |     |      |                  |
 |bart |toyota|fix wrong problem |
-|     |      |                  
+|     |      |                  | 
 |harri|forester|hoel in gas tank|
 
