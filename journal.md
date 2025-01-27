@@ -40,9 +40,9 @@ the rise in ai investment and demand is causing the tech industry to be limited 
 the government taking away alot of tech  componies  because of there origions evean tho the owner of the app has nothing to do with stealong are data evean tho are data gets stolen anyways from other companys and apps like google or apple but they dont care because they dont come from a forin countrie if i was working in tiktok i would try my best to update security and make sure all the acusations are false in any way because when in a company like tiktok 
 you have to make sure that you can help the community in any way so that way you can maintain a stable companynot to meantion the only reason tiktok is geting the ban was because of that fact it was made in china and they are worried that they will steal are data when apple has been doing that forever always with the update it is strang but still i dont think much of it but the fact its dum and beside people have alredy found a app like tiktok call redtub or something like that so all this effort will be for nothign
 # January 27, 2025
-|jimmy|sierra|fix wrong problem |
+|jimmy|sierra|carpet stains     |
 |---  |---   |---               |
-|kayla|honda |oil cap stains    |
+|kayla|honda |oil cap           |
 |     |      |                  |
 |bart |toyota|fix wrong problem |
 |     |      |                  | 
