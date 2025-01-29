@@ -43,9 +43,7 @@ you have to make sure that you can help the community in any way so that way you
 # January 27, 2025
 |jimmy|honada|hole in gas tank  |
 |---  |---   |---               |
-|kayla|sierra|fix wrong problem |
-                             
-|bart |toyota|stains on carpet  |
-|     |      |                  | 
+|kayla|sierra|fix wrong problem |                            
+|bart |toyota|stains on carpet  |                              
 |harri|forester|left oil cap off|
 
