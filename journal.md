@@ -1,3 +1,4 @@
+
 # September 10, 2024 
 one way you can access them we could make our notes public so that way you can see them or show your teacher the notews you have taken and there was nothing i did not understand
 # September 12, 2024 
@@ -40,11 +41,11 @@ the rise in ai investment and demand is causing the tech industry to be limited 
 the government taking away alot of tech  componies  because of there origions evean tho the owner of the app has nothing to do with stealong are data evean tho are data gets stolen anyways from other companys and apps like google or apple but they dont care because they dont come from a forin countrie if i was working in tiktok i would try my best to update security and make sure all the acusations are false in any way because when in a company like tiktok 
 you have to make sure that you can help the community in any way so that way you can maintain a stable companynot to meantion the only reason tiktok is geting the ban was because of that fact it was made in china and they are worried that they will steal are data when apple has been doing that forever always with the update it is strang but still i dont think much of it but the fact its dum and beside people have alredy found a app like tiktok call redtub or something like that so all this effort will be for nothign
 # January 27, 2025
-|jimmy|honada|carpet stains     |
+|jimmy|honada|hole in gas tank  |
 |---  |---   |---               |
-|kayla|sierra|oil cap           |
+|kayla|sierra|fix wrong problem |
 |     |      |                  |
-|bart |toyota|fix wrong problem |
+|bart |toyota|stains on carpet  |
 |     |      |                  | 
-|harri|forester|hoel in gas tank|
+|harri|forester|left oil cap off|
 
