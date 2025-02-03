@@ -46,4 +46,5 @@ you have to make sure that you can help the community in any way so that way you
 |kayla|sierra|fix wrong problem |                            
 |bart |toyota|stains on carpet  |                              
 |harri|forester|left oil cap off|
-
+# February 3, 2025
+with the help of technology they could have had a better chanse if they had dubble check there sytems they could have a better chane of landing or they could of had delayed the flight to make sure they could have survive and if they had used there algorithms to manage airspace they could had prevented what could have caused the crash they could have been warned and could have made an emergency landing or they could have informed any near by airports to let them know the problem that they are in there are many thing that could have been used to prevent the crash but we cant save them then but knowing technology we will do our best to prevent this frome happening again
