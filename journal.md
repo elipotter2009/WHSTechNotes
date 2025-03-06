@@ -58,3 +58,6 @@ March 5, 2025
 |Zara|Telekenesis|Secure Building|
 |--- |---      |---          |
 |Aether|Weather Manipulation|Prevent Assassination|
+|Thorne|Invisibility|Underwater Rescue|
+|Silver|Mind Control|Retrive stolen goods|
+|Tangier|Shapeshifting|Extract Prisoner|
