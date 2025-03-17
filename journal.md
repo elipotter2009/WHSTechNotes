@@ -55,8 +55,9 @@ i have learnd that skylanders are planing on making youtooz sometime this year
 # February 24, 2025
 technology can be used to show how people talk back then like in the 2000 witch in my opion was the most normal version of the human Language because of how now a days there is a whole lot of stuff that i don't understand and i chose not to but teaching the younger generation tobe somewhat normal and not what they are now using there weird slang every time they talk instend of talking like a regular human being so the use of technology will have a grate impact on educating the younger generartion to be a bit better and to stop using so there slang so much and to make them have a normal conversation 
 March 5, 2025
-|Zara|Telekenesis|Secure Building|
-|--- |---      |---          |
+|name|Power|Challenge
+|--- |--- |--- |
+|zara |telekenesis|Secure Building|
 |Aether|Weather Manipulation|Prevent Assassination|
 |Thorne|Invisibility|Underwater Rescue|
 |Silver|Mind Control|Retrive stolen goods|
