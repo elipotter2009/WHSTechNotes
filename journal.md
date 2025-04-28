@@ -72,3 +72,9 @@ i am doing good today the most stressful part of school is keeping my grades up 
 with the use of Ai to help students study is a grate idea and and a bad one at the same time sure ai can help us understand a problem better by showing the steps on what to do in very good detail and if you diddent understand it you can ask it to explain the issue but the cons of using ai is that they cound very much just use Ai to simple get the answer that they need insted of doing the work and learing how to do it and when it comes time to actually do the test they will be confused because they were to lazy to look up the answer sure there willl be some people that will actually do that work step by step but most of the people who want to be done with the test  will be confused because all they know is what they got from the Ai so when it comes time to acually explaing on how to get the Answer they dont know what to put because they used Ai in my oppion student shouldn't use Ai to help them they need to learn for them self 
 # April 14, 2025
 This is a free week
+# April 28, 2025
+|Name|Flavor|Occasion|Place|
+|--- |--- |--- |
+|Sally|Chocolate|Graduation|$35.00|
+|Michael|Vanilla|Farewell Party|$37.00|
+|Emma|Carrot|Birthday|$39.00|
