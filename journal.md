@@ -74,7 +74,7 @@ with the use of Ai to help students study is a grate idea and and a bad one at t
 This is a free week
 # April 28, 2025
 |name|flavor|occasion|price|
-|--- |--- |--- |
-|Sally|Chocolate|Graduation|$35.00|
-|Michael|Vanilla|Farewell Party|$37.00|
-|Emma|Carrot|Birthday|$39.00|
+|--- |--- |---|--- |
+|sally|chocolate|graduation|$35.00|
+|michael|vanilla|farewell party|$37.00|
+|emma|carrot|birthday|$39.00
