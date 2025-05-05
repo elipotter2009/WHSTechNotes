@@ -78,3 +78,5 @@ This is a free week
 |sally|chocolate|graduation|$35.00|
 |michael|vanilla|farewell party|$37.00|
 |emma|carrot|birthday|$39.00
+# May 5, 2025
+100 men vs 1 gorilla this is a popular questions with two diffrent answers i belive if the men are well train and have a plan and the right body build then they will have a chance but a gorilla can run up to 25mph and they are very strong so if you have 3 men destract the gorilla and have the other in spacific places around the gorilla so that way when the gorilla is fully destracted they can get the jump on the gorilla because if they have five men attack one arm and 5 for the other arm then they can focus thee rest on the body so that way they can fully defeat the gorrila and some of the other men can throw rocks at the gorilla to discombobulate the gorilla
