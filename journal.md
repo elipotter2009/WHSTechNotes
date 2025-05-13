@@ -82,3 +82,9 @@ This is a free week
 100 men vs 1 gorilla this is a popular questions with two diffrent answers i belive if the men are well train and have a plan and the right body build then they will have a chance but a gorilla can run up to 25mph and they are very strong so if you have 3 men destract the gorilla and have the other in spacific places around the gorilla so that way when the gorilla is fully destracted they can get the jump on the gorilla because if they have five men attack one arm and 5 for the other arm then they can focus thee rest on the body so that way they can fully defeat the gorrila and some of the other men can throw rocks at the gorilla to discombobulate the gorilla
 # may 12, 2025
 "The Chromebook Challenge" is not ethical you are destorying your chromebook which is very expensise and not to meantion the school can sue you for property dammage seeing how the chromebook's belongs to theme they could sue you for a lot of money this is why you should never follow trends you see on tick tock or youtube becasue they are most likely dumm and will get you in trouble so if you see a trend dont follow it just watch it and see how dumm it is
+# May 13, 2025
+|name|age|toy|
+|---|---|---|
+|max|3|train|
+|kylie|4|dinosaur|
+|emma|5|plush dog|
