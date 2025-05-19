@@ -88,3 +88,5 @@ This is a free week
 |max|3|train|
 |kylie|4|dinosaur|
 |emma|5|plush dog|
+# May 19, 2025
+I am redy for summer where i can sleep for long points in time where i dont have to worry about my grades where i dont have to worry about any school work or missing work summer is a time where i can finally relax
