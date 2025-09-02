@@ -90,3 +90,5 @@ This is a free week
 |emma|5|plush dog|
 # May 19, 2025
 I am redy for summer where i can sleep for long points in time where i dont have to worry about my grades where i dont have to worry about any school work or missing work summer is a time where i can finally relax
+# September 2, 2025
+I think the new cell phone law is a bit flawed as student can't use their phones at lunch when the law state that student shall not be on there phones durring learing period but in lunch we don't learn anything if fact the opposit we learn nothing from lunch we just eat and hang out with friends but for the people who are anti social are left with nothing to keep them  occupied or if there is someone who is injured we can't use are phones to contact emergency services because it's against the law to have are phones out durring the learing period so if someone is to get hurt we can't use are phones to call someone but back then we could call someone now we just have to go get a staff member who could be across the school so in my oppion i do like the phone law it's just that it has many flaws that effect the safty of the sudent's they try to prottect and teach
