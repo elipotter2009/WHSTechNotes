@@ -100,3 +100,45 @@ A good AI project would be the debate of laws basicly make an AI the looks and r
 i think its a great idea because some people are anti social and or have medical problems that prevent them from leaving their home or hospital this help theme earn money from from or where ever they may be or just any where that dosent have any work avaliable for them this is why i belive that ikea making it so that people can work from online in a game to earn money and with the help of AI this makes it possible and plus its less of a liablity if someone gets hurt because its just machines being piloted by people so this is less likley of a work place accident to happen so i think people should give it a chance because it could be a greate help to the people 
 # October 1, 2025 
 I don't understand this six seven meme at all and i will not explain it as i dont understand it what so ever and I don't want to learn it as it's a waste of time as so why people keep repeating it. I belive they find it funny wich i don't understand why they would find it funny. but most people now are idots thats why
+using UnityEngine;
+
+// Controls player movement and rotation.
+public class PlayerController : MonoBehaviour
+{
+    public float speed = 5.0f; // Set player's movement speed.
+    public float rotationSpeed = 120.0f; // Set player's rotation speed.
+
+    private Rigidbody rb; // Reference to player's Rigidbody.
+
+    public float jumpForce = 5.0f;
+
+    // Start is called before the first frame update
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody>(); // Access player's Rigidbody.
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.VelocityChange);
+        }
+    }
+
+
+    // Handle physics-based movement and rotation.
+    private void FixedUpdate()
+    {
+        // Move player based on vertical input.
+        float moveVertical = Input.GetAxis("Vertical");
+        Vector3 movement = transform.forward * moveVertical * speed * Time.fixedDeltaTime;
+        rb.MovePosition(rb.position + movement);
+
+        // Rotate player based on horizontal input.
+        float turn = Input.GetAxis("Horizontal") * rotationSpeed * Time.fixedDeltaTime;
+        Quaternion turnRotation = Quaternion.Euler(0f, turn, 0f);
+        rb.MoveRotation(rb.rotation * turnRotation);
+    }
+}
