@@ -104,3 +104,9 @@ I don't understand this six seven meme at all and i will not explain it as i don
 if i was in charge i would let kids use ther phones during lunch sense this new phone law has its falws that makes many people upset secondly i would unban some games because allo tho school is meant for learing kids need to have fun and keep their minds active and allowing them to play some games third and the use of AI tool i see AI as help full at time but also a main learing problem becuse some kids will use it to an advantage just to cheat so thats why i will nott allow students to use AI because they need to learn things on their own because one way or another they will have to come with the terms that they cant just chat their way out of everything they have a hard time with and need to learn how to solve problem they come acroos on there own thats what i would do if i was in charge of running a school 
 # October ,14 2025
 my code was design for a simple interactive memory card game and it worked very well it gave me what i wanted i explaend in detail how i wanted code for a interactive memory card game and it gave it to me the code works very well i have tested the game and every thing seems to be in working order nothing seems to go wrong there was nothing to improve but myself and needing to understand how to use ai better but other than that every thing went wellhttps://www.canva.com/ai/code/thread/3a95cbc7-5400-4e8b-a2d5-e61659d28448
+# October 20, 2025
+|name|class|seat|
+|---|---|---|
+|Franklin|second|91A|
+|Hardeep|third|61F|
+|Marla|first|35B|
