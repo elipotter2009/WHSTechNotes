@@ -110,3 +110,9 @@ my code was design for a simple interactive memory card game and it worked very 
 |Franklin|second|91A|
 |Hardeep|third|61F|
 |Marla|first|35B|
+# October 27, 2025
+|name|Main Dish|Dessert|
+|---|---|---|
+|Fiona|Gado Gado |Creme Brulee|
+|tobias|Shrimp Ceviche|French Apple Cake|
+|leanne|Beef Wellington|Raspberry Tiramisu|
