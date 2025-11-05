@@ -116,3 +116,5 @@ my code was design for a simple interactive memory card game and it worked very 
 |Fiona|Gado Gado |Creme Brulee|
 |tobias|Shrimp Ceviche|French Apple Cake|
 |leanne|Beef Wellington|Raspberry Tiramisu|
+# November 3, 2025
+The main problem is funding SNAP supplies poor family with food and if they can't supplie the family with food technology can help by finding the cheepest food and where to find them it can also help spread awareness to other people who might want to help in their cause some challenges that they might face is markating that is very important when you want people to know of your cause next is how many people will show up or who will be willing to help them because they might need someone to  manage their funding or how they distribute food 
