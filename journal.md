@@ -1,6 +1,4 @@
-
-# September 10, 2024 
-one way you can access them we could make our notes public so that way you can see them or show your teacher the notews you have taken and there was nothing i did not understand
+we could make our notes public so that way you can see them or show your teacher the notews you have taken and there was nothing i did not understand
 # September 12, 2024 
 when doing the work you could  have gave a liltlile demostrantion on how to do it more proporly and there was nothing i did not understand i followed the instructions and did my work
 # September 13, 2024 
@@ -125,4 +123,4 @@ i am looking forward to next week but also on the 20th i am going to a wedding a
 # December 1, 2025
 one real job that uses drones is Cinematographer Drones are used in the film and television industry to get unique aerial shots for documentaries, movies, and commercials people who pilot drones get paid 29-56 dollars per hour drone pilot in the U.S., you must be at least 16 years old, pass a knowledge test from the Federal Aviation Administration (FAA) to get a Remote Pilot Certificate (Part 107 certificate), and be able to read, speak, write, and understand English. While no specific degree is mandatory Programmers for drones develop the software that controls them, focusing on flight control, navigation, and data processing
 # December 8, 2025
-The reason i balive that self driving cars are a problem and why they don't follow the normal road safty rules we follow because they don't understand like we do they just see road and drive down it even with the programing it still fails thats because the programe can't learn it needs to watch other cars and see why people don't drive past a bus or a red light so to inprove this flaw have the ai that drives the cars sit on top of cars that are driven by people so it can learn how to propperly drive and so it can learn when to turn when to go on a light and when it needs to stop at a stop sign or a bus stop sign 
+The reason i balive that self driving cars are a problem and why they don't follow the normal road safty rules we follow because they don't understand like we do they just see road and drive down it even with the programing it still fails thats because the programe can't learn it needs to watch other cars and see why people don't drive past a bus or a red light so to inprove this flaw have the ai that drives the cars sit on top of cars that are driven by people so it can learn how to propperly drive and so it can learn when to turn when to go on a light and when it needs to stop at a stop sign or a bus stop sign this is how nyou can inprove the ai in self driving cars
