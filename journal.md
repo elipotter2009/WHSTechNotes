@@ -137,3 +137,5 @@ One way technology can make a more fair and just society is with jobs most jobes
 in my opinion behaveing professionally means to focus on your work and have respect for the people a round you to be professinoal and making sure you are doing the tight thing without being distractedfrom the task at hand 
 # February 10, 2026
 Do i like foot ball:No i don't like it i prefer soccer becuase thats what i grew up on i also nerver saw whats so great about foot ball i don't watch anything related to foot ball i bearly watch any sports show i have watched a bit of foot ball and i still don't get why people like it 
+# February 23, 2026
+one pice of technology that had a big impact in the winter 2026 Olympics is the FPV drone. the FPV drone allows people to see what the its like going down the rapms and senice it is small is has no major impact on the people going down the hill and allows the people to have a better understanding of what the athletes go through. this is why the FPV drone had a major impact on the 2026 winter Olympics 
