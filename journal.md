@@ -139,3 +139,26 @@ in my opinion behaveing professionally means to focus on your work and have resp
 Do i like foot ball:No i don't like it i prefer soccer becuase thats what i grew up on i also nerver saw whats so great about foot ball i don't watch anything related to foot ball i bearly watch any sports show i have watched a bit of foot ball and i still don't get why people like it 
 # February 23, 2026
 one pice of technology that had a big impact in the winter 2026 Olympics is the FPV drone. the FPV drone allows people to see what the its like going down the rapms and senice it is small is has no major impact on the people going down the hill and allows the people to have a better understanding of what the athletes go through. this is why the FPV drone had a major impact on the 2026 winter Olympics 
+# March 2, 2026
+Company:ussa
+job:Software Engineer
+Education Required:Bachelor’s Degree or 4 additional years of experience beyond the minimum requirement can be used in lieu of a degree OR Approved certification from CodeUp, Galvanize, VetFIT (Veterans for IT) or eFIT (Employees for IT)
+4 years of software development experience demonstrating depth of technical understanding within a specific discipline(s)/technology(s)
+2 years of experience delivering technology solutions in all phases of the software systems and application development lifecycle to include leading code/design reviews
+Experience Required:Expertise in Oracle Fusion Cloud Reporting Applications, including: FDI (Fusion Data Intelligence), BI Publisher (BIP), Oracle Analytics Cloud (OAC) Experience articulating technical challenges and solutionsDemonstrated experience in implementing at least two modules across ERP or EPM platforms (Examples: Implemented GL & Accounting Hub; Implemented FCCS and PCMCS; or two FCCS implementations.)
+Skills / Tools / Languages:Basic Understanding of one or more of the following: Java, Swift, Objective-C, Cobol, JavaScript, Kotlin, C++, HTML, CSS, SQL, Go, and Python
+this job is about coding and finding solutions in any problems any knowing what to do in a tight spot with littile time 
+
+job:Digital Analyst (H-E-B Digital)
+Education Required:5+ years of experience in software engineering, with a focus on platform engineering and cloud infrastructure
+Extensive experience with Databricks and managing large scale data processing environments
+Strong expertise in AWS services, including EC2, S3, IAM, VPC, Lambda and Cloud Formation
+Experience Required:Proficient in core GCP services like Compute Engine, Cloud Storage, Cloud SQL, BigQuery, Cloud Dataflow, Cloud Spanner, App Engine, Kubernetes Engine (GKE)
+Proficiency in Python for data engineering and scripting tasks
+SQL is always plus
+Hands on experience with Terraform for infrastructure provisioning and management
+Familiarity with data engineering concepts and tools (e.g.: Apache Spark, ETL processes)
+Skills / Tools / Languages:Compute Engine, Cloud Storage, Cloud SQL, BigQuery, Cloud Dataflow, Cloud Spanner, App Engine, Kubernetes Engine (GKE)
+Proficiency in Python for data engineering and scripting tasks
+
+IF I had to chose one of these two jobs i would chose digital analyst for H-E-B as that is a place i know and have seen what its like and what they employese are like so i feel like if i started out there then i would feel comfidant in my fellow employes to help me understand a problem and just be a great team to have and get to know them better
