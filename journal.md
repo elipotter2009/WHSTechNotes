@@ -162,3 +162,5 @@ Skills / Tools / Languages:Compute Engine, Cloud Storage, Cloud SQL, BigQuery, C
 Proficiency in Python for data engineering and scripting tasks
 
 IF I had to chose one of these two jobs i would chose digital analyst for H-E-B as that is a place i know and have seen what its like and what they employese are like so i feel like if i started out there then i would feel comfidant in my fellow employes to help me understand a problem and just be a great team to have and get to know them better
+# March 23,2026
+to how i did the braket work i picked who ever had the higher chance at wining more than more gamre and combine then and compared it to the other and who ever had the higher percentage i would pick and same goes for the rest of the brackets a computer programe would analyse some data on eacher player and conclude who ever had the better percentage they would most likely have a btter chance at wining 
